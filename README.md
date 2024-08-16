@@ -42,8 +42,8 @@ To run this notebook, you need:
 
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone (https://github.com/charan028/Pytorch_basics_and_Geminillm.git)
+   cd Pytorch_basics_and_Geminillm
    import torch
    # Create a 3x4 tensor
     tensor = torch.rand(size=(3, 4))
